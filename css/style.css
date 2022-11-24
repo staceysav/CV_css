@@ -92,6 +92,10 @@ hr {
     margin-right: 30px;
 }
 
+.projects {
+    margin-top: 6rem;
+}
+
 .contact-me__message {
     width: 40%;
     margin: 40px auto 60px;
