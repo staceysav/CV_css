@@ -96,6 +96,12 @@ hr {
     margin-top: 6rem;
 }
 
+.about-me {
+    width: 50%;
+    margin: 100px auto;
+    text-align: center;
+}
+
 .contact-me__message {
     width: 40%;
     margin: 40px auto 60px;
