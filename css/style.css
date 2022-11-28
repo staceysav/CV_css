@@ -102,6 +102,10 @@ hr {
     text-align: center;
 }
 
+.about-me__title {
+    margin-bottom: 5rem;
+}
+
 .contact-me__message {
     width: 40%;
     margin: 40px auto 60px;
